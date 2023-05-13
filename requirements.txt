@@ -1,0 +1,10 @@
+tensorflow
+numpy
+matplotlib
+Pillow
+opencv-python-headless
+flask
+streamlit
+uvicorn[standard]
+fastapi
+python-multipart
